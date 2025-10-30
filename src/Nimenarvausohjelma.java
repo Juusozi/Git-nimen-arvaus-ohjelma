@@ -20,7 +20,7 @@ public class Nimenarvausohjelma {
                 System.out.println("Arvasit oikein " + yritykset + ". yrityksellä.");
                 break;
             } else {
-                System.out.println("Väärin, yritä uudelleen.");
+                ("Väärin, yritä uudelleen.");
             }  
         }
 

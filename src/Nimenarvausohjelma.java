@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Nimenarvausohjelma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String oikeaNimi = "Joel";
+        String oikeaNimi = "Juuso";
         String arvaus = "";
         int yritykset = 0;
 
